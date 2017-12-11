@@ -9,7 +9,7 @@ from tensorflow.examples.tutorials.mnist import input_data
 mnist=input_data.read_data_sets("F:tensortflow\mnist.data",one_hot=True)
 #Training Parameters
 learning_rate=0.01
-training_steps=1000
+training_steps=10000
 display_step=200
 batch_size=200
 
