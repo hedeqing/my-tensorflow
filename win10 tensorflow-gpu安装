@@ -1,0 +1,30 @@
+小白一枚，请多指教，谢谢。
+
+实践证明，win10 + tensorflow1.6 + cuda9.1 +cudnn8.0 + python3.6安装不适配（也许是个
+
+人原因）
+
+因为我的电脑是新电脑，win10 +python3.5（用anaconda安装）+ cudnn8.0 +cuda9.0使用成功
+
+其中有些环境变量是不用添加的，有些自动加进去的，但是需要把cudnn压缩后的所有文件粘贴到
+
+cuda目录下。
+
+安装过程中遇到不少问题，比如其他程序正在安装中安装失败，我是通过重启更新之后就可以了
+
+第二个问题：无法创建会话session，可以更新你的显卡驱动，可以到这个网站
+
+http://www.nvidia.com/download/driverResults.aspx/131443/en-us下载更新
+
+问题就解决了
+
+
+cudn下载网址（自行百度）
+
+cudnn下载网址https://developer.nvidia.com/  需要完成调查问卷才能下载
+
+anaconda下载地址https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/（此处下载比较快）
+
+python3.5的安装也花费了我不少时间，还是直接给出百度云分享吧
+
+https://pan.baidu.com/s/1GVBcYCTD3wlN2amrR-pWMw
