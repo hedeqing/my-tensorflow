@@ -1,0 +1,4 @@
+# my-tensorflow
+practices tensorflow
+这是个人从新开始学习tensorflow时发现的tensorflow官网的联系文档，
+希望通过这个联系了解一些未了解的一些东西。
